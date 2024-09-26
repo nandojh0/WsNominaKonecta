@@ -202,13 +202,13 @@
 					"response": []
 				},
 				{
-					"name": "Obtener la próxima fecha de pago ingresando fecha:  2024-03-30 Copy",
+					"name": "Obtener la próxima fecha de pago ingresando fecha:  2024-06-30",
 					"request": {
 						"method": "POST",
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n  \"fecha\": \"2024-07-15\"\r\n}\r\n",
+							"raw": "{\r\n  \"fecha\": \"2024-06-30\"\r\n}\r\n",
 							"options": {
 								"raw": {
 									"language": "json"
